@@ -9,5 +9,8 @@
         <module name="KPSTEST" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="KPSTEST" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
